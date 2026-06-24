@@ -11,13 +11,21 @@ Compare the detection and prevention capabilities of firewall, IPS and IDP techn
 ## Planned Environment
 
   Attacker VM (Kali Linux)
+  
             |
+            
          pfSense
+         
             |
+            
          Suricata
+         
             |
+            
 _________________________
+
 |                       |
+
 Windows Machine      Ubuntu VM
 
 ## Planned Attack
